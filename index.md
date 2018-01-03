@@ -54,13 +54,25 @@ a Software Carpentry or Data Carpentry workshop?</p>
 
 We will offer the following topics on the following days: 
  <div class="row">
-    <div class="col-md-4">Shell
+    <div class="col-md-6">
+    <h3>Shell</h3>
+    Tuesday, January 16
+    <a href="#shell">more details</a>
     </div>
-    <div class="col-md-4">Git
+    <div class="col-md-6">
+    <h3>Git</h3>
+    Wednesday, January 17
+    <a href="#git">more details</a>
     </div>
-    <div class="col-md-4">R
+    <div class="col-md-6">
+    <h3>R</h3>
+    Thursday, January 18
+    <a href="#r">more details</a>
     </div>
-    <div class="col-md-4">Python
+    <div class="col-md-6">
+    <h3>Python</h3>
+    Friday, January 19
+    <a href="#python">more details</a>
     </div>
  </div>
  
@@ -159,16 +171,33 @@ We will offer the following topics on the following days:
 <h2 id="schedule">Sessions</h2>
 
 <div class="jumbotron">
-
 <h3>Shell</h3>
-<p>Date/Time: Tuesday, January 16, 2018; 10am - noon</p>
-<p>Facilitators: Carolyn Voter, Paul Wilson</p>
-<p>Topics covered: </p>
+<p><strong>Date/Time:</strong> Tuesday, January 16, 2018; 10am - noon</p>
+<p><strong>Facilitators:</strong> Carolyn Voter, Paul Wilson</p>
+<p><strong>Topics covered:</strong> </p>
 <p><a href=" ">Sign Up Here</a></p>
 </div>
 
-<p>Git</p>
+<div class="jumbotron">
+<h3>Git</h3>
+<p><strong>Date/Time:</strong> Wednesday, January 17, 2018; 10am - noon</p>
+<p><strong>Facilitators:</strong> Patrick Shriwise, Steve Goldstein</p>
+<p><strong>Topics covered:</strong> </p>
+<p><a href=" ">Sign Up Here</a></p>
+</div>
 
-<p>R</p>
+<div class="jumbotron">
+<h3>R</h3>
+<p><strong>Date/Time:</strong> Thursday, January 18, 2018; 10am - noon</p>
+<p><strong>Facilitators:</strong> Brian Yandell, Alex Bajcz, Richard Barker</p>
+<p><strong>Topics covered:</strong> </p>
+<p><a href=" ">Sign Up Here</a></p>
+</div>
 
-<p>Python</p>
+<div class="jumbotron">
+<h3>Pyhon</h3>
+<p><strong>Date/Time:</strong> Friday, January 19, 2018; 10am - noon</p>
+<p><strong>Facilitators:</strong> Sara Stevens, Taylor Scott</p>
+<p><strong>Topics covered:</strong> </p>
+<p><a href=" ">Sign Up Here</a></p>
+</div>
