@@ -158,8 +158,14 @@ We will offer the following topics on the following days:
 {% endcomment %}
 <h2 id="schedule">Sessions</h2>
 
+<div class="jumbotron">
 
-<p>Shell</p>
+<h3>Shell</h3>
+<p>Date/Time: Tuesday, January 16, 2018; 10am - noon</p>
+<p>Facilitators: Carolyn Voter, Paul Wilson</p>
+<p>Topics covered: </p>
+<p><a href=" ">Sign Up Here</a></p>
+</div>
 
 <p>Git</p>
 
