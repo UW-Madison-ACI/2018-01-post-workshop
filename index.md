@@ -5,13 +5,13 @@ venue: "Post-Carpentry Sessions @ UW Madison"        # brief name of host site w
 address: "Discovery Building, Room 1170"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
+latlng: "43.072912,-89.408079"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
 humandate: "January 16-19, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "10am - noon"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-01-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-01-19        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: [" "] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: [" "]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+#instructor: [" "] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+#helper: [" "]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["ckoch5@wisc.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -57,26 +57,31 @@ a Software Carpentry or Data Carpentry workshop?</p>
     <div class="col-md-3">
     <h3>Shell</h3>
     <p>Tuesday, January 16</p>
+    <p>10am - noon</p>
     <p><a href="#shell">more details</a></p>
     </div>
     <div class="col-md-3">
     <h3>Git</h3>
     <p>Wednesday, January 17</p>
+    <p>10am - noon</p>
     <p><a href="#git">more details</a></p>
     </div>
     <div class="col-md-3">
     <h3>R</h3>
     <p>Thursday, January 18</p>
+    <p>10am - noon</p>
     <p><a href="#r">more details</a></p>
     </div>
     <div class="col-md-3">
     <h3>Python</h3>
     <p>Friday, January 19</p>    
+    <p>10am - noon</p>
     <p><a href="#python">more details</a></p>
     </div>
  </div>
  
-</br>
+
+
 <p>Please see the descriptions below for more information and how to sign up. </p>
  
 {% comment %}
@@ -98,7 +103,7 @@ a Software Carpentry or Data Carpentry workshop?</p>
   Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Bring your own laptop.  We assume that you will 
+  <strong>Requirements:</strong> Bring your laptop.  We assume that you will 
   have already installed the relevant program or tool. 
 </p>
 
