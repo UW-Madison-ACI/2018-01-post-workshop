@@ -52,8 +52,7 @@ how to edit specific sections of this workshop template. {% endcomment %}
 <p>Have you ever wanted to learn more about the topics that are covered in 
 a Software Carpentry or Data Carpentry workshop?</p>
 
-<p>We will offer the following topics on the following days; 
-Please see the descriptions below for more information and how to sign up. </p>
+<p>We will offer the following topics on the following days:</p>
  <div class="row">
     <div class="col-md-3">
     <h3>Shell</h3>
@@ -76,6 +75,9 @@ Please see the descriptions below for more information and how to sign up. </p>
     <p><a href="#python">more details</a></p>
     </div>
  </div>
+ 
+</br>
+<p>Please see the descriptions below for more information and how to sign up. </p>
  
 {% comment %}
   AUDIENCE
