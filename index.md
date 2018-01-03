@@ -52,32 +52,31 @@ how to edit specific sections of this workshop template. {% endcomment %}
 <p>Have you ever wanted to learn more about the topics that are covered in 
 a Software Carpentry or Data Carpentry workshop?</p>
 
-We will offer the following topics on the following days: 
+<p>We will offer the following topics on the following days; 
+Please see the descriptions below for more information and how to sign up. </p>
  <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-3">
     <h3>Shell</h3>
-    Tuesday, January 16
-    <a href="#shell">more details</a>
+    <p>Tuesday, January 16</p>
+    <p><a href="#shell">more details</a></p>
     </div>
-    <div class="col-md-6">
+    <div class="col-md-3">
     <h3>Git</h3>
-    Wednesday, January 17
-    <a href="#git">more details</a>
+    <p>Wednesday, January 17</p>
+    <p><a href="#git">more details</a></p>
     </div>
-    <div class="col-md-6">
+    <div class="col-md-3">
     <h3>R</h3>
-    Thursday, January 18
-    <a href="#r">more details</a>
+    <p>Thursday, January 18</p>
+    <p><a href="#r">more details</a></p>
     </div>
-    <div class="col-md-6">
+    <div class="col-md-3">
     <h3>Python</h3>
-    Friday, January 19
-    <a href="#python">more details</a>
+    <p>Friday, January 19</p>    
+    <p><a href="#python">more details</a></p>
     </div>
  </div>
  
-<p>Please see the descriptions below for more information and how to sign up.  </p>
-
 {% comment %}
   AUDIENCE
 
@@ -170,6 +169,7 @@ We will offer the following topics on the following days:
 {% endcomment %}
 <h2 id="schedule">Sessions</h2>
 
+<a name="shell"></a>
 <div class="jumbotron">
 <h3>Shell</h3>
 <p><strong>Date/Time:</strong> Tuesday, January 16, 2018; 10am - noon</p>
@@ -178,6 +178,7 @@ We will offer the following topics on the following days:
 <p><a href=" ">Sign Up Here</a></p>
 </div>
 
+<a name="git"></a>
 <div class="jumbotron">
 <h3>Git</h3>
 <p><strong>Date/Time:</strong> Wednesday, January 17, 2018; 10am - noon</p>
@@ -186,6 +187,7 @@ We will offer the following topics on the following days:
 <p><a href=" ">Sign Up Here</a></p>
 </div>
 
+<a name="r"></a>
 <div class="jumbotron">
 <h3>R</h3>
 <p><strong>Date/Time:</strong> Thursday, January 18, 2018; 10am - noon</p>
@@ -194,8 +196,9 @@ We will offer the following topics on the following days:
 <p><a href=" ">Sign Up Here</a></p>
 </div>
 
+<a name="python"></a>
 <div class="jumbotron">
-<h3>Pyhon</h3>
+<h3>Python</h3>
 <p><strong>Date/Time:</strong> Friday, January 19, 2018; 10am - noon</p>
 <p><strong>Facilitators:</strong> Sara Stevens, Taylor Scott</p>
 <p><strong>Topics covered:</strong> </p>
