@@ -216,7 +216,7 @@ the relevant tool, based on attending a Software or Data Carpentry workshop.  </
 <div class="jumbotron">
 <h3>Python</h3>
 <p><strong>Date/Time:</strong> Friday, January 19, 2018; 10am - noon</p>
-<p><strong>Facilitators:</strong> Sara Stevens, Taylor Scott</p>
+<p><strong>Facilitators:</strong> Sarah Stevens, Taylor Scott</p>
 <p><strong>Topics covered:</strong> </p>
 <p><a href=" ">Sign Up Here</a></p>
 </div>
