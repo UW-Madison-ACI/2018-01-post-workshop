@@ -90,7 +90,9 @@ the relevant tool, based on attending a Software or Data Carpentry workshop.  </
  
 <hr>
 
-<p>Please see the descriptions below for more information and how to sign up. </p>
+<p>Please see the descriptions below for more information and how to sign up. We 
+reserve the right to cancel a session due to projected low attendance (fewer than 4-5 
+people) so please register if you're planning to come!</p>
  
 {% comment %}
   AUDIENCE
