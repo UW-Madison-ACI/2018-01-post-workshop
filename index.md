@@ -202,7 +202,7 @@ people) so please register if you're planning to come!</p>
 <p><strong>Date/Time:</strong> Wednesday, January 17, 2018; 10am - noon</p>
 <p><strong>Facilitators:</strong> Patrick Shriwise, Steve Goldstein</p>
 <p><strong>Topics covered:</strong> </p>
-<p><a href=" ">Sign Up Here</a></p>
+<p><a href="https://www.eventbrite.com/e/workshop-follow-up-git-tickets-41877377363">Sign Up Here</a></p>
 </div>
 
 <a name="r"></a>
@@ -211,7 +211,7 @@ people) so please register if you're planning to come!</p>
 <p><strong>Date/Time:</strong> Thursday, January 18, 2018; 10am - noon</p>
 <p><strong>Facilitators:</strong> Brian Yandell, Alex Bajcz, Richard Barker</p>
 <p><strong>Topics covered:</strong> </p>
-<p><a href=" ">Sign Up Here</a></p>
+<p><a href="https://www.eventbrite.com/e/workshop-follow-up-r-tickets-41880035313">Sign Up Here</a></p>
 </div>
 
 <a name="python"></a>
@@ -220,5 +220,5 @@ people) so please register if you're planning to come!</p>
 <p><strong>Date/Time:</strong> Friday, January 19, 2018; 10am - noon</p>
 <p><strong>Facilitators:</strong> Sarah Stevens, Taylor Scott</p>
 <p><strong>Topics covered:</strong> </p>
-<p><a href=" ">Sign Up Here</a></p>
+<p><a href="https://www.eventbrite.com/e/workshop-follow-up-python-tickets-41880073427">Sign Up Here</a></p>
 </div>
