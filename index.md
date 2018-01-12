@@ -53,9 +53,9 @@ how to edit specific sections of this workshop template. {% endcomment %}
 covered in Software and Data Carpentry?  We are offering four follow-up sessions 
 hosted by our Software and Data Carpentry instructors, in order to review material 
 from the workshops, demonstrate additional features, and provide a place for 
-questions and consultation.  We will NOT be providing a basic introduction to 
+questions and consultation.  <strong>We will NOT be providing a basic introduction to 
 any topics -- these sessions assume that you have at least seen and tried using 
-the relevant tool, based on attending a Software or Data Carpentry workshop.  </p>
+  the relevant tool, based on attending a Software or Data Carpentry workshop.</strong>  </p>
 
 <p>We will offer the following topics on the following days:</p>
 
