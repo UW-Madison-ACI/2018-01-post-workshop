@@ -209,7 +209,7 @@ people) so please register if you're planning to come!</p>
 <div class="jumbotron">
 <h3>R</h3>
 <p><strong>Date/Time:</strong> Thursday, January 18, 2018; 10am - noon</p>
-<p><strong>Facilitators:</strong> Brian Yandell, Alex Bajcz, Richard Barker</p>
+<p><strong>Facilitators:</strong>Alex Bajcz, Richard Barker</p>
 <p><strong>Topics covered:</strong> </p>
 <p><a href="https://www.eventbrite.com/e/workshop-follow-up-r-tickets-41880035313">Sign Up Here</a></p>
 </div>
